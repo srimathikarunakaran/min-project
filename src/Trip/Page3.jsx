@@ -1,4 +1,5 @@
-import picture from './Images/picture.jpeg'
+import picture from './Images/picture.jpeg';
+import './Page.css';
 
 function Photo(){
     return(
